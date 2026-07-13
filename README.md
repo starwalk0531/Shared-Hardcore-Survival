@@ -1,4 +1,4 @@
-#原代碼有誤請直接下載.jar檔案
+# 原代碼有誤請直接下載.jar檔案
 
 
 # Shared Hardcore Survival MOD
