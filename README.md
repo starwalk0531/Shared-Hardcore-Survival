@@ -1,3 +1,6 @@
+原代碼有誤請直接下載.jar檔案
+
+
 # Shared Hardcore Survival MOD
 
 一個為 Minecraft 1.20.1 Forge 開發的多人共享硬核生存模組。
