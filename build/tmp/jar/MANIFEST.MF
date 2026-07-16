@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sharedhardcoresurvival
+Specification-Vendor: starwalk
+Specification-Version: 1
+Implementation-Title: Shared-Hardcore-Survival
+Implementation-Version: 1.0.0
+Implementation-Vendor: starwalk
+Implementation-Timestamp: 2026-07-14T13:02:48+0800
+
